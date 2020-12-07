@@ -4,3 +4,5 @@
 # GamesRapid Bot
 
 Ich bitte euch falls ihr Fehler findet, schreibt sie bitte in Issues. 
+
+https://github.com/TheRedCmdCraft/GamesRapidBot-New/issues
